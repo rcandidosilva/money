@@ -10,7 +10,7 @@
 
 namespace SebastianBergmann\Money;
 
-use NumberFormatter;
+use \NumberFormatter as NumberFormatter;
 
 /**
  * Formatter implementation that uses PHP's built-in NumberFormatter.
